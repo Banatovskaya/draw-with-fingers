@@ -24,6 +24,7 @@ canvas {
 video {
 	width: 200px;
 }
+
 .nonevideo {
 	display: none;
 }
@@ -33,9 +34,7 @@ video {
 		height: 30px;
 		margin-top: 40px;
 		font-size: 12px;
-		
 	}
-	
 }
 
 @media (max-width: 575px) {
